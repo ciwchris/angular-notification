@@ -4,8 +4,8 @@
   "theme_color": "#03bffe",
   "background_color": "#03bffe",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/angular-notification/",
+  "start_url": "/angular-notification//index.html?homescreen=1",
   "icons": [
     {
       "src": "./assets/images/icons/icon-72x72.png",
