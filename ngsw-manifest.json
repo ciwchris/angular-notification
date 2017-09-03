@@ -1,0 +1,42 @@
+{
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      }
+    }
+  },
+  "external": {
+    "urls": [
+      {
+        "url": "https://fonts.googleapis.com/icon?family=Material+Icons"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/materialicons/v29/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2"
+      }
+    ]
+  },
+  "static": {
+    "urls": {
+      "/angular-notification/polyfills.c9b879328f3396b2bbe8.bundle.js": "f00c8e2e8fdb6dfab76c1ab43efb7fa3be20f4d6",
+      "/angular-notification/main.523acd63941bb1894587.bundle.js": "d0665acdd1eb06b04307da9930a51e0f921f0f41",
+      "/angular-notification/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "/angular-notification/vendor.6e4f4e2d6a99a55ceee0.bundle.js": "75a0d1736c4155c41cb41377254c3361a764cb2a",
+      "/angular-notification/inline.00384ebf8a203d1a2796.bundle.js": "ae312d42e33c388d0b71f13664b7c719f4b747ad",
+      "/angular-notification/styles.ade2be01dc9a20e8df03.bundle.css": "ca490c538e15f7078d004f3dfd6059a373089387",
+      "/angular-notification/assets/images/icons/icon-128x128.png": "17c1c31423a99d3551fbe7f3285c6d95dfb212c7",
+      "/angular-notification/assets/images/icons/icon-144x144.png": "686da5754c1a89bcc09075c23188357504bd996d",
+      "/angular-notification/assets/images/icons/icon-152x152.png": "a92d4cbe1a39c35b99dec67cb1a0fb35ccd16e38",
+      "/angular-notification/assets/images/icons/icon-192x192.png": "75e9e100cf9f19fac3d92086c587eaf22e30ef19",
+      "/angular-notification/assets/images/icons/icon-384x384.png": "5d9c914747b78e2e5689656fdfc15e7a6a0609e9",
+      "/angular-notification/assets/images/icons/icon-512x512.png": "33be308e9d05dbc3428c32baaf1025dbe9524bbf",
+      "/angular-notification/assets/images/icons/icon-72x72.png": "9c9fa7481095ed36a64b9b63d855dce27d4a0f91",
+      "/angular-notification/assets/images/icons/icon-96x96.png": "88bff4f0ffcf4dbe9b5afeb1a6c7a99e5ec5058e",
+      "/angular-notification/favicon.ico": "ad0141248baa1e807260139b8f870dc34c14e2f7",
+      "/angular-notification/manifest.json": "bfa82fdf85b2126c9dc5600ba63cb3a9f50bb2a1",
+      "/angular-notification/index.html": "dff8f4f43e03d152c10bd35bea8a428aa280cce8"
+    },
+    "_generatedFromWebpack": true
+  }
+}
