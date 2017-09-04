@@ -1,0 +1,10 @@
+.container {
+    margin-top: 20px;
+    text-align:center
+}
+
+.alert-card {
+	  background-color: #f2dede;
+    margin: 30px auto;
+    max-width: 500px;
+}
